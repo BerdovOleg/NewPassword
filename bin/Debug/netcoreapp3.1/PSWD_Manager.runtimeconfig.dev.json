@@ -1,0 +1,9 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\boa.ZINTUR\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\boa.ZINTUR\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\obj\Debug\netcoreapp3.1\PSWD_Manager.csprojAssemblyReference.cache
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\obj\Debug\netcoreapp3.1\PSWD_Manager.AssemblyInfoInputs.cache
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\obj\Debug\netcoreapp3.1\PSWD_Manager.AssemblyInfo.cs
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\bin\Debug\netcoreapp3.1\PSWD_Manager.exe
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\bin\Debug\netcoreapp3.1\PSWD_Manager.deps.json
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\bin\Debug\netcoreapp3.1\PSWD_Manager.runtimeconfig.json
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\bin\Debug\netcoreapp3.1\PSWD_Manager.runtimeconfig.dev.json
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\bin\Debug\netcoreapp3.1\PSWD_Manager.dll
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\bin\Debug\netcoreapp3.1\PSWD_Manager.pdb
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\obj\Debug\netcoreapp3.1\PSWD_Manager.dll
+C:\Users\boa.ZINTUR\source\repos\PSWD_Manager\PSWD_Manager\obj\Debug\netcoreapp3.1\PSWD_Manager.pdb
