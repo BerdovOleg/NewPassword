@@ -40,7 +40,7 @@ namespace PSWD_Manager
         static string[] let = new string[] { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
         static string[] LET = new string[] { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z" };
         static string[] numb = new string[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
-        static string[] symb = new string[] { "~", "`", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "|", "", "№", ";", ":", "?", "'\'", "[", "]", "{", "}", ";", "", ",", "/", ".", "<", ">" };
+        static string[] symb = new string[] { "~", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "|", "{", "}", ":", "<", ">", "?", "\"", "№", ";", "%", ":", "/", "-", "=", "\\", ".", "`", "[", "]", ";", "'", "," };
 
         static Random letRND = new Random();
         static Random LETRND = new Random();
@@ -160,7 +160,7 @@ namespace PSWD_Manager
         static string[] let = new string[] { "a", "b", "c", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s", "t", "u", "v", "w", "x", "y", "z" };
         static string[] LET = new string[] { "A", "B", "C", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R", "S", "T", "U", "V", "W", "X", "Y", "Z" };
         static string[] numb = new string[] { "1", "2", "3", "4", "5", "6", "7", "8", "9", "0" };
-        static string[] symb = new string[] { "~", "`", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "|", "", "№", ";", ":", "?", "'\'", "[", "]", "{", "}", ";", "", ",", "/", ".", "<", ">" };
+        static string[] symb = new string[] { "~", "!", "@", "#", "$", "%", "^", "&", "*", "(", ")", "_", "+", "|", "{", "}", ":", "<", ">", "?", "\"", "№", ";", "%", ":", "/", "-", "=", "\\", ".", "`", "[", "]", ";", "'", "," };
 
         static Random letRND = new Random();
         static Random LETRND = new Random();
